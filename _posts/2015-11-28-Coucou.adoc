@@ -1,3 +1,4 @@
 = Coucou
+:hp-tags:Test, Lol,
 Ca va ?
 Moi oui _lol_
